@@ -1,7 +1,24 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "JHB post"
 date: 2014-04-30
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This website is *powered* by [Jekyll](http://jekyllrb.com).
+>I use Markdown to author my posts.
+ ## GitHub is the host.
+ 1. one potato
+ 2. two **potato**
+ 3. potato
+ 4. four
+
+ # bulleted list
+ * 1
+ * 2
+ * 3
+  * a
+  * b
+  * c
+
+** overview **
+>> code
