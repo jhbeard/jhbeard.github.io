@@ -15,8 +15,9 @@ date: 2017-05-1
 
 *Eat everything*
 
-** they put on your dish **
->by
+# They put on your dish
+
+### by
 >> John Prine
 
 ---
@@ -32,4 +33,3 @@ date: 2017-05-1
 * forgive
 
   * space
-  
