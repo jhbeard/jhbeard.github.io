@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Messing around with Markdown"
-date: 2014-05-1
+date: 2014-04-30
 ---
 
 This website is *powered* by [Jekyll](http://jekyllrb.com).
