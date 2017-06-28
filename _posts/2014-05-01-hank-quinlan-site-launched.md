@@ -1,8 +1,23 @@
 ---
 layout: post
-title: "Messing around with Markdown"
-date: 2014-05-1
+title: "Second blog post"
+date: 2017-05-1
 ---
+> Father
+# forgive us
+## for what we must do
+### your forgive us
+We'll forgive you
+================
+** Fish and a whistle **
+Whistle and a Fish
+---------------
+
+* Eat everything *
+** they put on your dish **
+>by
+>> John Prine
+
 
 This website is *powered* by [Jekyll](http://jekyllrb.com).
 >I use Markdown to author my posts.
