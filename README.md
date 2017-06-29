@@ -1,5 +1,16 @@
-hankquinlan.github.io
-=====================
-This is demo data created by [Jonathan McGlone](http://jmcglone.com) and used in a [step-by-step beginners guide](http://jmcglone.com/guides/github-pages) to creating and hosting a personal website using GitHub and Jekyll. You can view the demo data at <http://hankquinlan.github.io> and read the guide at <http://jmcglone.com/guides/github-pages>. 
+# MkDocs Basic Theme
 
-Users are free to copy and re-use any and all of the code contained here without contacting me.
+This is an example minimal theme for MkDocs. You can see it running with a
+build for this documentation. However, note that it is intended as a code
+example rather than an example of a usable theme.
+
+http://mkdocs.github.io/mkdocs-basic-theme/
+
+[![PyPI Downloads][pypi-dl-image]][pypi-dl-link]
+[![PyPI Version][pypi-v-image]][pypi-v-link]
+
+[pypi-dl-image]: https://img.shields.io/pypi/dm/mkdocs-basic-theme.png
+[pypi-dl-link]: https://pypi.python.org/pypi/mkdocs-basic-theme
+[pypi-v-image]: https://img.shields.io/pypi/v/mkdocs-basic-theme.png
+[pypi-v-link]: https://pypi.python.org/pypi/mkdocs-basic-theme
+
